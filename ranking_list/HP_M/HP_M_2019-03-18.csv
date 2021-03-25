@@ -1,0 +1,616 @@
+position,lastname,firstname,nationality,age,date of birth,WST Rider ID,fis code,number of results,points
+1,James,Scotty,AUS,25,1994-07-06 0:00,74836,9040117,3 / (6),1000
+2,Totsuka,Yuto,JPN,,,81763,9300752,3 / (11),902.17
+3,Burgener,Patrick,SUI,25,1994-06-01 0:00,72989,9510239,3 / (8),777.43
+4,Katayama,Raibu,JPN,24,1995-05-04 0:00,83805,9300545,3 / (8),753.97
+5,Miller,Toby,USA,19,2000-02-14 0:00,83042,9531142,3 / (6),746.09
+6,Hirano,Ruka,JPN,,,91295,9300799,3 / (11),743.37
+7,Josey,Chase,USA,24,1995-03-31 0:00,78302,9530715,3 / (7),736.98
+8,Livingston,Derek,CAN,28,1991-01-05 0:00,79209,9100194,3 / (8),690.49
+9,Scherrer,Jan,SUI,25,1994-07-11 0:00,63890,9510228,3 / (9),658.85
+10,Anai,Ikko,JPN,21,1997-12-17 0:00,82290,9300617,3 / (11),635.99
+11,Davis,Danny,USA,31,1988-06-22 0:00,60369,9530002,3 / (3),624.56
+12,Pates,Jake,USA,21,1998-07-30 0:00,82989,9530983,3 / (6),593.39
+13,Callister,Kent,AUS,24,1995-11-09 0:00,80780,9040186,3 / (7),561.4
+14,Lee,Kwang Ki,KOR,26,1993-10-13 0:00,79924,9320033,3 / (8),550.24
+15,Wachendorfer,Ryan,USA,23,1996-02-03 0:00,81197,9530811,3 / (5),477.46
+16,Habluetzel,David,SUI,23,1996-04-24 0:00,76229,9510324,3 / (7),477.1
+17,Podladtchikov,Iouri,SUI,31,1988-09-13 0:00,66812,9510223,3 / (4),466.55
+18,Blackwell,Chase,USA,20,1999-02-27 0:00,85114,9531125,3 / (8),452.86
+19,Hirano,Kaishu,JPN,,,95889,9300803,3 / (5),445.96
+20,Shigeno,Shuichiro,JPN,,,94996,9300976,3 / (4),435.1
+21,Fair,Shawn,CAN,18,2001-06-01 0:00,91032,9100854,3 / (12),427.58
+22,Tourki,Liam,FRA,20,1999-03-25 0:00,81604,9190385,3 / (9),414.63
+23,Avtaneev,Nikita,RUS,24,1995-03-09 0:00,86316,9480374,3 / (6),413.85
+24,Nakagawa,Kaishu,JPN,,,93137,9300901,3 / (5),394.06
+25,Lee,Joonsik,KOR,17,2002-03-07 0:00,94553,,3 / (6),379.85
+26,Kuchisubo,Raio,JPN,18,2001-06-09 0:00,89482,9300754,3 / (7),372.2
+27,Lechner,Christoph,GER,18,2000-12-08 0:00,92477,9200133,3 / (7),364.8
+28,Zhang,Yiwei,CHN,27,1992-10-03 0:00,80528,1124933,2 / (2),361.21
+29,Wolle,Jason,USA,19,1999-11-30 0:00,94559,9531295,3 / (9),351.38
+30,Negishi,Shin,JPN,,,93647,9300883,3 / (3),347.81
+31,Ivanov,Victor,SUI,20,1999-03-21 0:00,86860,9510386,3 / (9),340.82
+32,Kweon,Leejun,KOR,22,1997-10-24 0:00,86412,9320093,3 / (8),336.03
+33,Foster,Lucas,USA,20,1999-09-17 0:00,92114,9531230,3 / (9),332.01
+34,Bowman,Joshua,USA,21,1998-08-08 0:00,82668,9531115,3 / (7),326.95
+35,Coyne,Jack,USA,17,2002-01-17 0:00,90779,9531302,3 / (8),325.82
+36,Allenspach,Elias Gian,SUI,18,2001-05-14 0:00,88792,,3 / (10),324.15
+37,Gennero,Lorenzo,ITA,22,1997-06-30 0:00,86558,9290295,3 / (5),316.26
+38,Canter,Jake,USA,16,2003-07-19 0:00,90895,9531350,3 / (4),305.5
+39,Okawa,Kotaro,JPN,,,95886,9300835,3 / (5),304.88
+40,Hoeflich,Andre,GER,22,1997-04-28 0:00,81378,9200110,3 / (5),295.61
+41,Kikuchihara,Koyata,JPN,,,95076,9300940,3 / (5),292.4
+42,Saito,Sota,JPN,,,94998,9300941,3 / (3),288.8
+43,Lecroy,Kolman,USA,,,96120,9531366,3 / (9),287.97
+44,Stante,Tit,SLO,21,1998-10-11 0:00,80748,9560193,3 / (8),285.78
+45,Gold,Taylor,USA,25,1993-11-17 0:00,76866,9530459,3 / (5),285.78
+46,Ferguson,Ben,USA,24,1995-01-21 0:00,76852,9530659,3 / (3),280.75
+47,Ito,Aito,JPN,,,94071,9300769,3 / (4),268.66
+48,Craig,Fletcher,NZL,18,2001-05-25 0:00,94323,9410046,3 / (12),263.03
+49,Fan,Xiaobing,CHN,,,96066,1124970,3 / (8),252.89
+50,Aota,Wataru,JPN,,,91501,9300741,3 / (4),252.52
+51,Wang,Ziyang,CHN,,,97572,,3 / (9),249.6
+52,Collins,Jack,CAN,21,1998-09-19 0:00,78363,9100651,3 / (11),236.43
+53,Bockstaller,Benedikt,GER,,,93071,9200147,3 / (4),234.91
+54,Hauri,Marco,SUI,18,2000-11-18 0:00,90851,9510427,3 / (4),231.92
+55,Bullock-Womble,Fynn,USA,,,96984,,3 / (6),231.35
+56,Cho,Hyeonmin,KOR,,,94552,9320174,3 / (4),211.22
+57,Guseli,Valentino,AUS,14,2005-04-01 0:00,88527,9040291,3 / (4),208.22
+58,Wopnford,Owen,CAN,19,1999-12-01 0:00,89186,9100788,3 / (4),204.56
+59,Okesson,Joey,USA,,,96999,9531364,3 / (5),202.48
+60,Hoepfl,Johannes,GER,24,1995-08-12 0:00,77864,9200089,2 / (2),200.06
+61,Kawahara,Shiryu,JPN,,,96524,,3 / (4),199.89
+62,Adams,Braeden,CAN,21,1998-03-26 0:00,89205,9100713,3 / (11),198.32
+63,Yabu,Ryota,JPN,,,94993,9300922,3 / (3),195.87
+64,Aoki,Hironori,JPN,,,99276,,3 / (3),195.64
+65,Aono,Ryo,JPN,29,1990-05-15 0:00,73914,9300018,1 / (1),192.69
+66,Biele,Gian Andrin,SUI,16,2003-06-20 0:00,88788,9510455,3 / (4),191.34
+67,Serrano,Shane,USA,24,1995-02-10 0:00,81890,9530954,3 / (7),190.63
+68,Gill,Liam,CAN,16,2003-07-30 0:00,88090,9101051,3 / (3),172.56
+69,Lee,Hyun-Jun,KOR,,,95239,,3 / (8),171.28
+70,Li,Jian,CHN,,,97571,1124986,3 / (5),167.14
+71,Lovelock,Zephyr,NZL,,,97602,,3 / (3),164.34
+72,Pershad,Kiran,CAN,19,2000-04-28 0:00,87920,,3 / (6),162.43
+73,Goulet,Hunter,USA,,,97647,,3 / (8),162.33
+74,Maeda,Rion,JPN,,,94994,9300923,3 / (4),149.86
+75,Gu,Ao,CHN,,,93914,1124957,3 / (5),148.33
+76,Minamino,Yo,JPN,,,95807,9300898,3 / (4),145.64
+77,Okajima,Toa,JPN,,,96522,,3 / (3),145.56
+78,O Connor,Seamus,IRL,22,1997-10-04 0:00,75808,1274973,2 / (2),145.22
+79,Kim,Kangsan,KOR,,,99191,,3 / (6),143.99
+80,Ito,Kira,JPN,,,98146,,3 / (3),143.94
+81,Vito,Louie,USA,31,1988-03-20 0:00,64517,7535030,1 / (1),143.64
+82,Modesti,Michael,CAN,18,2001-07-12 0:00,91040,9100907,3 / (3),143.19
+83,Petrick,Ryder,CAN,18,2001-03-11 0:00,91460,9101032,3 / (3),142.39
+84,Schipani,Dante,USA,,,97781,9531471,3 / (4),141.2
+85,Lechner,Florian,GER,13,2005-12-26 0:00,93820,,3 / (4),139.24
+86,Giblin,Parker,USA,,,96119,9531357,3 / (5),137.26
+87,Danner,Peter,USA,,,93345,9531239,3 / (3),134.91
+88,Junker,Jonas,SUI,19,2000-02-11 0:00,92117,9510413,2 / (2),133.33
+88,Nagata,Hironori,JPN,,,84326,9300805,1 / (1),133.33
+88,Tait,Rakai,NZL,20,1998-12-11 0:00,85111,9531158,1 / (1),133.33
+91,Shimasaki,Kyu,JPN,,,96527,,3 / (3),133.28
+92,Murakami,Konosuke,JPN,,,99517,,3 / (3),132.38
+93,Ishimoto,Manato,JPN,,,98201,,3 / (4),131.23
+94,Van Der Sluis,Gib,NED,16,2003-05-21 0:00,92836,9400091,3 / (4),130.21
+96,Ferguson,Gabe,USA,20,1999-04-16 0:00,76868,9531061,3 / (3),129.54
+97,Matteoli,Ian,ITA,,,87524,,3 / (3),127.69
+98,Gray,Charles,USA,,,97749,9531416,3 / (3),125.61
+99,Schrott,Mark,GER,,,94813,,3 / (3),125.32
+100,Doi,Takumi,JPN,,,96525,,2 / (2),115.9
+101,George,Quentin,CAN,17,2002-04-26 0:00,94065,9100975,3 / (3),115.62
+103,KRALJ KOS,Max,SLO,,,81399,9560168,2 / (2),113.49
+104,Pettit,Robert,USA,24,1995-09-19 0:00,82543,9530913,2 / (2),112.78
+105,Kallo,Sami,FIN,,,93249,9180167,3 / (4),112.06
+106,Strobel,Seth,CAN,,,96230,9101106,3 / (3),108.69
+107,Murakami,Renji,JPN,,,99516,,3 / (4),105.06
+108,Peterson-Zopf,Dylan,USA,,,97758,9531474,3 / (4),104.38
+109,Rose,Michael,USA,,,84066,,3 / (6),104.35
+110,Schwan,Philip,GER,19,2000-09-22 0:00,92396,9510433,2 / (2),104.26
+111,Senzaki,Shota,JPN,24,1995-03-26 0:00,86201,9300561,3 / (3),103.95
+112,Hoffman,Chris,USA,,,97650,,3 / (5),101.69
+113,Kautonen,Valtteri,FIN,,,93246,9180186,3 / (6),101.33
+114,Vo,Ryan,CAN,,,96224,,3 / (3),100.28
+115,Hanakata,Kensuke,JPN,,,93009,9300758,3 / (3),98.57
+116,Magee,Chris,USA,,,98251,,3 / (5),97.69
+117,Martin,Kade,USA,,,96973,,3 / (3),97.39
+118,Kitazawa,Makoto,JPN,43,1976-04-07 0:00,73948,,2 / (2),97.37
+119,Cavanagh,Connor,USA,,,98883,,3 / (3),96.3
+120,Eldood,Kamal,CAN,,,97960,,3 / (3),95.25
+121,Tyler,Hayden,USA,,,96979,,3 / (3),94.79
+122,Cox,Matthew,AUS,21,1998-06-09 0:00,75364,9040200,1 / (1),94.64
+123,Bernert,Manuel,AUT,36,1983-09-26 0:00,55005,,1 / (1),93.9
+124,Sonoda,Keigo,JPN,,,97161,,2 / (2),92.09
+125,Shinei,Yuta,JPN,,,95894,9300826,3 / (4),91.97
+126,ROBERTSON-HAHN,Joshua,AUS,,,94284,9040292,3 / (3),91.2
+127,Parisi,Jamie,USA,,,98250,,1 / (1),88.47
+128,Thurnbichler,Thomas,AUT,,,90915,,1 / (1),87.72
+129,Kim,Kang San,KOR,,,94880,,2 / (2),87.5
+130,Baumann,Moreno,SUI,,,93664,9510462,3 / (3),87.39
+131,Teixeira,Augustinho,BRA,,,99140,,3 / (3),86.35
+132,Noda,Junya,JPN,,,73626,,2 / (2),86.34
+133,Thelen,Axel,FIN,22,1997-11-15 0:00,90978,9180154,2 / (2),83.52
+134,Tanaka,Yo,JPN,,,74392,9300943,2 / (2),83.19
+135,Gao,Hongbo,CHN,,,96069,1124969,3 / (3),82.51
+136,Burns,Owen,CAN,16,2003-05-11 0:00,92619,9101056,3 / (3),81.34
+137,Mitsumori,Taichi,JPN,,,98110,,3 / (4),80.7
+138,Hanada,Ryoya,JPN,,,95211,,2 / (2),80.03
+139,Huber,Niklas,GER,15,2004-04-17 0:00,92995,9200181,2 / (2),77.45
+140,Partanen,Aatu,FIN,,,93237,9180192,3 / (4),73.35
+141,Melville Ives,Cam,NZL,,,99105,,2 / (2),72.67
+142,Ostapovich,Kale,CAN,,,96219,9100978,2 / (2),72.42
+143,Briggs,Lucas,CAN,,,96229,9101108,3 / (3),69.99
+144,Burch,Dario,SUI,22,1997-03-15 0:00,82504,9510348,1 / (1),69.78
+145,Langston,Jake,USA,,,97000,9531480,3 / (3),69.26
+146,Ohashi,Kosuke,JPN,,,99464,,2 / (2),68.31
+147,MacIsaac,Jordan,CAN,,,97955,,3 / (3),67.99
+148,Imai,Rigu,JPN,,,89495,9300745,1 / (1),66.67
+149,Scanland,Cyrus,CAN,,,97946,,3 / (3),66.61
+150,Kikuchi,Tatsuna,JPN,,,98111,,3 / (4),65.13
+151,Waibl,Clemens,AUT,,,21452,9050068,1 / (1),64.32
+152,Seymour,Bailey,CAN,17,2002-07-05 0:00,92605,,3 / (3),64.13
+153,Yoon,Sung-Woo,KOR,,,91115,9320139,3 / (4),62.16
+154,Patronen,Roope,FIN,,,93244,,3 / (4),61.84
+155,Staudt,Bernhard,GER,,,79361,9200171,1 / (1),60.65
+156,Kaneko,Keita,JPN,,,94995,,1 / (1),59.99
+157,Yamazaki,Hinata,JPN,,,98144,,3 / (3),59.97
+158,Taklo,Johannes,NOR,,,93190,9420163,1 / (1),59.37
+159,Lauffer,Logan,USA,17,2002-01-24 0:00,97567,9531410,2 / (2),59.13
+160,Lewis,Tyson,CAN,13,2006-07-26 0:00,91458,,2 / (2),59.07
+161,Durand,Alois,GER,15,2003-12-02 0:00,91590,9200184,2 / (2),58.7
+162,Kim,Min-Jun,KOR,19,2000-02-07 0:00,91119,9320145,3 / (3),58.39
+163,Naoi,Kairyu,JPN,,,91138,9300770,3 / (3),56.63
+164,Hirano,Manato,JPN,,,95808,,1 / (1),55.13
+165,Bergman,Joonas,FIN,19,2000-05-15 0:00,93245,9180170,2 / (2),55.12
+166,Kon,Hakuto,JPN,,,99462,,2 / (2),54.17
+167,Beer,Wolfgang,AUT,37,1982-03-11 0:00,71630,,1 / (1),53.97
+168,Guetl,Leon,GER,18,2001-03-19 0:00,89696,9200129,2 / (2),53.71
+169,Hatta,Toi,JPN,,,99515,,2 / (2),53.25
+170,Jones,Dayton,CAN,,,96213,9101058,3 / (3),52.39
+171,Kervinen,Nooa,FIN,,,94160,9180193,3 / (3),52.35
+172,Kim,Sang-Jae,KOR,,,99260,,3 / (3),52.29
+173,Bucher,Jeremy,SUI,,,92981,9510487,2 / (2),51.73
+174,Malcolm,George,CAN,,,94673,9100976,2 / (2),51.47
+176,Huuhtanen,Juhani,FIN,,,93238,,3 / (3),50.86
+177,Breu,Moritz,GER,16,2003-07-06 0:00,91598,9200161,2 / (2),50.45
+178,Lee,Hyun-Su,KOR,,,99258,,2 / (2),49.74
+179,Rohrt,Odin,NOR,14,2004-12-15 0:00,93544,,1 / (1),49.25
+180,Allen,Luke,USA,,,98688,,3 / (3),48.78
+181,Seo,Gyeong,KOR,,,96474,9320182,3 / (3),48.34
+182,Hoflacher,Roman,AUT,,,91826,,1 / (1),47.93
+183,Hasler,Jonas,SUI,,,92544,,1 / (1),47.72
+184,Karakoca,Talha,GER,18,2001-07-06 0:00,91468,9200130,2 / (2),47.46
+185,Saito,Yuto,JPN,,,96929,,3 / (3),47.43
+186,Ju,Sikyung,KOR,,,97863,,2 / (2),47.39
+187,Ouchi,Akito,JPN,,,99668,,1 / (1),47.19
+188,Menzies,Dane,CAN,14,2005-03-27 0:00,92604,9101168,2 / (2),46.61
+189,Ernst,Wyatt,CAN,,,94655,9101135,2 / (2),44.39
+190,Imai,Rogu,JPN,,,87176,9300656,1 / (1),44.23
+191,Naoi,Koryu,JPN,,,91137,9300771,1 / (1),43.77
+192,Ochiai,Yamato,JPN,,,99549,,3 / (3),43.44
+193,Kaku,Shusei,JPN,,,98217,,2 / (2),43.42
+194,Kelly,Connor,USA,,,85884,,2 / (2),43.25
+195,Maglov,Aleksey,RUS,,,92527,9480570,1 / (1),43.01
+196,Sandblom,Shayne,USA,,,97832,9531481,2 / (2),42.96
+197,Colon,Justin,USA,,,98711,,2 / (2),42.6
+198,Schweizer,Mika,GER,11,2007-12-05 0:00,94703,,1 / (1),42.37
+199,Yu,Jingtao,CHN,,,98675,,2 / (2),42.28
+200,Piao,Nanxu,CHN,,,96068,1124971,3 / (3),42.04
+201,Hofmann,Patrick,SUI,18,2001-04-24 0:00,91716,9510412,1 / (1),41.53
+202,Spence,MacKay,CAN,,,96584,9101127,2 / (2),41.47
+203,Fedorowycz,Lys,USA,,,98824,,2 / (2),41.29
+204,Virsunen,Juho,FIN,,,96440,,3 / (3),41.24
+205,Riddell,Evan,CAN,15,2004-10-08 0:00,93453,9101107,2 / (2),41.21
+206,Kawasaki,Jun,JPN,,,73940,,1 / (1),40.05
+207,Naito,Takehiro,JPN,,,84876,,2 / (2),40.03
+208,Fedorowycz,Levko,USA,,,98902,,2 / (2),39.76
+209,Pauli,Arthur,AUT,30,1989-05-14 0:00,75622,,1 / (1),39.72
+210,Rehnberg,Mikko,FIN,22,1997-04-16 0:00,87639,9180118,2 / (2),39.47
+211,Pickett,Daniel,USA,,,97744,,2 / (2),38.29
+212,Ichikawa,Yuma,JPN,,,95896,9300833,1 / (1),38.27
+213,Austin,Benton,USA,,,98710,,2 / (2),38.1
+214,Sugita,Takaaki,JPN,,,74686,,1 / (1),38.01
+215,Okesson,Tommy,USA,,,98328,,2 / (2),37.81
+216,Orr,Denver,USA,,,94557,9531307,1 / (1),37.73
+217,Capodiferro,Alessio,SUI,,,97624,9510464,3 / (3),37.32
+218,Greenblatt,Joseph,USA,,,99724,,3 / (3),37.3
+219,Avallone,Noah,USA,12,2007-05-16 0:00,97593,,2 / (2),37.01
+220,Ewert,Lucas,CAN,,,97953,,2 / (2),37.01
+221,Davern,Mitchell,NZL,17,2002-03-21 0:00,96093,9410049,2 / (2),36.85
+222,Ionov,Iouri,RUS,,,97964,,2 / (2),36.64
+223,Miltimore,Jacob,CAN,16,2003-02-25 0:00,93495,9101019,3 / (3),36.5
+224,Holland,Hayden,CAN,,,98466,,3 / (3),36.37
+225,Cowan,Taitten,USA,,,98237,,1 / (1),36.14
+226,Depriest,Brooklyn,USA,13,2006-02-21 0:00,96997,,2 / (2),35.58
+227,Golay,Eliot,SUI,,,98301,,1 / (1),35.56
+228,Montalvo,Trey,CAN,,,99417,,2 / (2),35.41
+229,Roberts,Ocean,AUS,18,2001-03-06 0:00,92306,9040263,2 / (2),35.27
+230,Joensuu,Topias,FIN,,,96438,,2 / (2),35.17
+231,Howell,Christopher,GER,12,2007-02-19 0:00,93817,,1 / (1),34.6
+232,Riley,Sam,USA,,,98709,,2 / (2),34.09
+233,Shi,Shangqian,CHN,,,98671,,3 / (3),34.01
+234,Kirkhus,Oyvind,NOR,,,93529,9420164,1 / (1),33.91
+235,Kim,Hyobin,KOR,,,99344,,3 / (3),33.85
+236,Frasca,Marco,SUI,,,96489,9510463,1 / (1),33.53
+237,Take,Shinnosuke,JPN,,,98141,,1 / (1),33.45
+238,Shonk,Cooper,USA,,,97809,,2 / (2),33.44
+239,Tonteri,Roope,FIN,27,1992-03-18 0:00,71927,9180063,1 / (1),33.33
+240,Leyva,Anthony,USA,,,99555,,2 / (2),32.72
+241,Steele,Sunny,AUS,16,2003-10-14 0:00,96007,9040280,3 / (3),32.39
+242,Schuetz,Nicolas,SUI,,,91725,,1 / (1),32.23
+243,Hietikko,Jere,FIN,,,93960,,2 / (2),31.81
+244,Craig,Mike,USA,,,98682,,1 / (1),31.65
+245,Fantuz,Dawson,CAN,,,96214,9101078,3 / (3),30.43
+246,Suikov,Maksim,RUS,,,94554,9480555,1 / (1),30.25
+247,Beavers,Cody,USA,,,95409,9531330,1 / (1),30.13
+248,Shimasaki,Haku,JPN,,,96715,,1 / (1),30.11
+249,Sundell,Samu,FIN,,,93240,,1 / (1),30.03
+250,Murayama,Makoto,JPN,43,1976-05-14 0:00,73935,9300579,1 / (1),29.69
+251,Venning,Kealan,GBR,,,95764,9220061,1 / (1),29.63
+252,Itakura,Yuki,JPN,,,93281,,2 / (2),29.14
+253,Lehner,Elias,SUI,,,95313,,1 / (1),28.89
+254,Sugizaki,Hiroto,JPN,,,98142,,2 / (2),28.46
+255,Asada,Keita,JPN,,,97318,,1 / (1),28.3
+256,Montalvo,Blake,CAN,,,99418,,2 / (2),28.13
+257,Kreienbühl,Gabriel,SUI,,,99619,,1 / (1),28.12
+258,Nakano,Yudai,JPN,,,95069,,1 / (1),28.08
+260,Rawdon-Harris,Ethan,CAN,,,97958,,2 / (2),27.63
+261,Pearson,Harry,USA,,,97810,,1 / (1),27.31
+262,Klapfenberger,Tobias,GER,,,98007,,1 / (1),27.3
+263,Autti,Antti,FIN,34,1985-03-15 0:00,24295,1184953,1 / (1),27.25
+264,Aoshima,Takeru,JPN,,,95190,,1 / (1),27.15
+265,Yasue,Shoki,JPN,,,95424,,1 / (1),26.79
+266,Ullah,Siddhartha,GBR,,,97802,,2 / (2),26.77
+267,Mogi,Kenta,JPN,,,89832,,1 / (1),26.57
+269,Walker,Kyle,USA,20,1999-11-11 0:00,97594,9531427,1 / (1),25.87
+270,Blake,Wyatt,USA,,,97820,9531458,1 / (1),25.69
+271,Pyle,Eric,CAN,,,98484,,1 / (1),25.35
+272,Sezaki,Takeyasu,JPN,,,74523,,1 / (1),25.29
+273,Lotz,Peter,GER,,,98008,,1 / (1),24.95
+274,Hoeksema,Steven,CAN,,,99411,,3 / (3),24.55
+275,Pajer,Mikolas,CZE,22,1997-10-10 0:00,76955,9150133,1 / (1),24.51
+276,Jamieson,Rocco,NZL,,,99123,,1 / (1),24.44
+277,Baikie,Zak,NZL,,,97573,9410062,1 / (1),24.32
+278,Eckhardt,Gregory,SUI,,,93665,,1 / (1),24.29
+279,Otsubo,Shuzaburo,JPN,16,2003-11-14 0:00,97883,,1 / (1),24.09
+280,Carr,Kyle,CAN,,,96217,9101047,2 / (2),23.94
+281,Yamanami,Yoji,JPN,,,74613,7300051,1 / (1),23.86
+281,Strobel,Rhys,CAN,,,97950,,2 / (2),23.86
+283,Copenhaver,Clay,USA,,,96972,,2 / (2),23.86
+284,Tokunaga,Dai,JPN,,,97319,,1 / (1),23.74
+285,Rizzi,Giovanni,SUI,,,93567,9510445,1 / (1),23.71
+286,Li,Zhuolin,CHN,,,98674,,2 / (2),23.6
+287,Shaw,Noah,CAN,,,96222,,1 / (1),22.83
+288,Harrison,Tyler,CAN,,,99415,,2 / (2),22.81
+289,Hoshino,Yoshiyuki,JPN,,,74604,,1 / (1),22.63
+290,Plur De La Rosa,Joao,GER,9,2009-12-15 0:00,96339,,1 / (1),22.6
+291,Lamon,Lucien,SUI,,,97639,,1 / (1),22.58
+292,Bond,George,USA,,,98983,,1 / (1),22.37
+293,Toledo,Antoni,ESP,,,97866,,1 / (1),22.36
+294,Seth,Carleton,NZL,,,97595,,1 / (1),22.12
+295,Komori,Yuya,JPN,,,95011,,1 / (1),21.91
+296,Dibben,Jace,CAN,18,2001-01-01 0:00,92677,9101142,2 / (2),21.48
+297,McCagherty,Ethan,CAN,,,97947,,2 / (2),21.37
+298,Lenchevskiy,Yaroslav,RUS,,,95784,9480723,1 / (1),21.37
+299,Hicks,Kieran,CAN,9,2010-03-07 0:00,96562,,1 / (1),20.97
+300,Henricksen,Dillon,USA,,,97762,9531498,1 / (1),20.87
+301,Koeppe,Shane,USA,,,98964,,2 / (2),20.53
+302,Partanen,Aleksi,FIN,26,1992-12-17 0:00,78249,9180087,1 / (1),20.52
+303,Yogosawa,Ryo,JPN,,,89570,,1 / (1),20.34
+304,Little,Alec,USA,,,91676,9531203,1 / (1),20.32
+305,Thoresen,Leo,GER,,,99577,,1 / (1),20.28
+306,Smith,Charlie,USA,,,96962,,2 / (2),20.13
+307,Hall,Lochie,NZL,,,97598,,1 / (1),20.03
+308,Drew,Daryn,CAN,,,96221,9101072,1 / (1),19.91
+309,Orr,Sumner,USA,,,98825,,1 / (1),19.88
+310,Chiyama,Takatsugu,JPN,,,99550,,3 / (3),19.75
+311,Kamimura,Naon,JPN,,,96406,9300858,1 / (1),19.4
+312,Tsujii,Yoshihide,JPN,,,98145,,1 / (1),19.27
+313,Woodworth,Kaleb,CAN,,,96368,9101118,1 / (1),19.23
+314,Adams,Gabriel,GBR,16,2003-02-14 0:00,90976,9220090,1 / (1),19.14
+315,Jablonski,Max,CAN,,,97944,,1 / (1),19.11
+316,Matveev,Mikhail,RUS,23,1996-05-22 0:00,81947,9480456,1 / (1),19.11
+317,Senevisai,Cherokee,USA,,,98960,,1 / (1),18.9
+318,Eisenman,Finn,USA,,,98826,,1 / (1),18.8
+319,Tyni,Jukka,FIN,29,1990-09-19 0:00,85259,9180146,1 / (1),18.74
+320,Verhaeghe,Jack,USA,,,98914,,1 / (1),18.5
+321,Otani,Shingo,JPN,,,74628,,1 / (1),18.25
+322,Chen,Maxson,AUS,,,92310,9040299,1 / (1),18.14
+323,Klotz,Jaron,GER,,,96336,,1 / (1),17.98
+324,Wotton,Noah,NZL,,,97574,9410061,1 / (1),17.89
+325,Thoreson,Hayden,USA,,,98827,,1 / (1),17.84
+326,Kaemingh,Carter,CAN,,,99404,,3 / (3),17.75
+327,Niwa,Jake,CAN,,,99408,,3 / (3),17.72
+328,Laine,Juho,FIN,,,93963,,2 / (2),17.49
+329,Rodriguez,Lukas,ESP,,,97669,9490234,1 / (1),17.41
+330,Girardon,Ethan,SUI,,,93060,9510446,1 / (1),17.35
+331,Smith,Parker,USA,,,87085,,1 / (1),17.31
+332,Barbieri,Alessandro,USA,,,99728,,1 / (1),17.28
+333,Ouchi,Kanato,JPN,,,99664,,1 / (1),17.25
+334,Zhou,Ruifeng,CHN,,,96914,1124982,1 / (1),17.12
+335,Lerner,Sebastian,USA,,,98828,,1 / (1),16.99
+336,Sato,Ayumu,JPN,,,91517,9300728,1 / (1),16.95
+337,Lee,Hyeon Gyu,KOR,,,96476,9320185,1 / (1),16.89
+338,Hamilton,Mason,CAN,,,96577,9101147,2 / (2),16.88
+339,Findlay,Liam,CAN,,,99416,,1 / (1),16.64
+340,Pyle,Elijah,USA,,,98915,,1 / (1),16.61
+341,Georgalli,Oscar,NZL,,,99122,,1 / (1),16.42
+342,Okada,Hideyo,JPN,,,99665,,1 / (1),16.28
+343,Ladley,Matthew,USA,28,1991-05-17 0:00,69253,,1 / (1),16.23
+344,Collins,Alex,USA,,,98829,,1 / (1),16.22
+345,Martin,Ollie,USA,,,96980,,1 / (1),16.18
+346,Yukimitsu,Koji,JPN,,,99514,,1 / (1),16.15
+347,Finnemore,Samuel,NZL,,,97596,,1 / (1),16.13
+348,Boney,Will,USA,,,98961,,1 / (1),15.86
+349,Cerrato,Leonardo,AUT,,,92708,,1 / (1),15.7
+350,Gordillo-Faulkner,Mateo,CAN,,,99413,,2 / (2),15.68
+351,Kosugi,Eidai,JPN,,,99465,,1 / (1),15.58
+352,Margulies,Nathan,USA,,,98820,,1 / (1),15.53
+353,Fetter,Karsten,USA,,,98712,,1 / (1),15.34
+354,Minagawa,Kazutaka,JPN,,,89559,,1 / (1),15.33
+355,Giblin,Bennet,USA,,,98909,,1 / (1),15.08
+356,McDermott,Eli,USA,,,96556,,1 / (1),15
+357,Burns,Henry,CAN,,,96253,,1 / (1),14.92
+358,Palmiter,Huck,USA,,,96939,,1 / (1),14.9
+359,Kashimura,Kazushige,JPN,,,91509,,2 / (2),14.85
+360,Hughes,Eli,NZL,,,99099,,1 / (1),14.84
+361,Kawamura,Masanobu,JPN,,,96734,,1 / (1),14.81
+362,Takahashi,Akira,JPN,,,74557,1187862,2 / (2),14.59
+363,Ackfeld,Tj,USA,,,98706,,1 / (1),14.57
+364,Muller,Andreas,USA,,,98962,,1 / (1),14.54
+365,Mason,Lachlan,AUS,,,92301,9040271,1 / (1),14.52
+366,Sekiguchi,Masahiro,JPN,,,93134,,1 / (1),14.41
+367,Lichtensteiger,Otto,USA,,,98910,,1 / (1),14.41
+368,Kuch,Tanner,USA,,,98821,,1 / (1),14.33
+369,Yang,Wenlong,CHN,,,96913,1124981,1 / (1),14.29
+370,Campbell,Cobi,CAN,,,98465,,1 / (1),14.17
+371,Leuenberger,Lukas,SUI,,,93059,,1 / (1),14.15
+372,Lipponen,Sampo,FIN,,,96439,,2 / (2),13.93
+373,Rice II,Brian,USA,,,98906,,2 / (2),13.9
+374,Brennan,Eryll,USA,,,98707,,1 / (1),13.86
+375,White,Brad,USA,,,97826,,1 / (1),13.86
+376,Hothem,Caleb,USA,,,98822,,1 / (1),13.8
+377,Kelly,Ryan,USA,,,98911,,1 / (1),13.79
+378,Kallos,Anderson,CAN,,,99868,,1 / (1),13.77
+379,Aavaluoma,Tommi,FIN,,,90148,9180163,1 / (1),13.72
+380,Maruyama,Daisuke,JPN,,,96517,,1 / (1),13.59
+381,Ahonen,Samu,FIN,,,96550,,2 / (2),13.52
+382,Matsuoka,Daisuke,JPN,,,96717,,1 / (1),13.5
+383,Murakami,Shiou,JPN,,,99466,,1 / (1),13.44
+384,Graf,Julian,GER,,,98009,,1 / (1),13.43
+385,Wikohika,Tui,NZL,,,97617,,1 / (1),13.39
+386,Alonso,Ian,USA,,,98115,,1 / (1),13.3
+387,Phelan,Nikolas,USA,,,97843,,1 / (1),13.23
+388,Duty,Johnny,USA,,,96951,,1 / (1),13.21
+389,Maas,Tim,NZL,,,99160,,1 / (1),13.03
+390,Abe,Soma,JPN,,,98209,,2 / (2),12.92
+391,Muresan,Wesley,USA,,,98823,,1 / (1),12.84
+392,Watanabe,Kakeru,JPN,,,91420,,1 / (1),12.76
+393,Wachter,Tieg,USA,,,97804,,2 / (2),12.67
+394,Katayama,Takuro,JPN,,,99666,,1 / (1),12.61
+395,Ross,Graydon,USA,,,98816,,1 / (1),12.41
+395,Lindroos,Axel,FIN,,,99302,,1 / (1),12.41
+397,Yokota,Masahiro,JPN,,,95200,,1 / (1),12.36
+397,Larson,Luke,CAN,,,99414,,1 / (1),12.36
+399,Perala,Lauri,FIN,,,95033,,2 / (2),12.28
+400,McDonald,Jason,USA,,,97815,,2 / (2),12.23
+401,Mundahl,Jack,USA,,,98912,,1 / (1),12.2
+402,Mazet Brown,Txema,NZL,,,97597,,1 / (1),12.05
+403,Sigel,Gus,USA,,,98708,,1 / (1),12.02
+404,Leal,Luke,USA,,,97745,,1 / (1),12
+405,Bergantino,Charlie,USA,,,99725,,1 / (1),11.96
+406,Hui,Yining,CHN,,,93913,1124956,1 / (1),11.88
+407,Hoshino,Yasuyuki,JPN,,,95066,,1 / (1),11.73
+408,Watkins,Max,AUS,,,99154,,1 / (1),11.64
+409,Barber,Nate,USA,,,98817,,1 / (1),11.61
+410,Gemmell-Hughes,Jobe,USA,,,98120,,1 / (1),11.48
+411,Higashino,Kakeru,JPN,,,99467,,1 / (1),11.44
+412,Liu,Zhengtong,CHN,,,99721,,2 / (2),11.29
+413,Connolly,John,USA,,,97761,,1 / (1),11.28
+414,Endo,Kotetsu,JPN,,,95883,,1 / (1),11.25
+415,Flynn,Bennett,USA,,,98818,,1 / (1),11.24
+416,Krall,Timo,AUT,,,94626,9050280,1 / (1),11.18
+417,Valjus,Antti,FIN,,,93252,9180191,2 / (2),11.17
+418,Kanazashi,Daisuke,JPN,,,89471,,1 / (1),11.16
+419,Harding,Jimmy,AUS,,,94309,,1 / (1),11.13
+420,Schroeter,Gion,SUI,,,98363,,1 / (1),11.11
+421,Strolz,Timo,SUI,,,91078,9510423,1 / (1),11.05
+422,Ferriera,Angelo,USA,,,98703,,1 / (1),10.97
+423,Ehret,Daniel,USA,,,98819,,1 / (1),10.88
+424,Iwasawa,Ryoichi,JPN,,,96713,,1 / (1),10.86
+425,Baribault,Tucker,USA,,,85128,,1 / (1),10.85
+426,Pickard,Andrew,BEL,,,98309,,1 / (1),10.84
+427,Luurila,Eero,FIN,,,93270,,1 / (1),10.8
+428,Kaku,Yusei,JPN,,,98221,,1 / (1),10.79
+429,Wakushima,Anru,NZL,,,97616,,1 / (1),10.78
+430,Yanagida,Kazuhiro,JPN,,,98661,,1 / (1),10.76
+431,Karhila,Roni,FIN,,,95037,9180194,1 / (1),10.61
+433,Burrows,Jacob,USA,,,97757,,1 / (1),10.53
+434,Lane,Charlie,GBR,,,94806,,1 / (1),10.53
+435,Huggin,Kai,USA,,,97882,,1 / (1),10.48
+436,Gifford,Morris,USA,,,98907,,1 / (1),10.44
+437,Rudgley,Jordan,NZL,,,97575,9410060,1 / (1),10.34
+437,Li,Yang,CHN,,,94748,,1 / (1),10.34
+439,Gillis,Daniel,CAN,,,99405,,2 / (2),10.25
+440,Overstake,Walker,USA,,,98813,,1 / (1),10.19
+441,Baxter,Jeremy,USA,,,97808,,1 / (1),10.13
+442,Zhou,Xin,CHN,,,99720,,1 / (1),10.12
+443,Parisi,Damon,USA,,,98908,,1 / (1),10.04
+444,Zama,Yoichiro,JPN,,,96716,,1 / (1),9.99
+445,Yato,Yuya,JPN,,,98223,,1 / (1),9.98
+445,Tallon,Tyler,CAN,,,99412,,1 / (1),9.98
+447,Borders,Chase,USA,,,97801,,1 / (1),9.86
+448,Chadwell,Ozzy,USA,,,97472,,1 / (1),9.85
+449,Vazquez,Iker,USA,,,98235,,1 / (1),9.65
+450,Rawdon,Ethan,CAN,,,96582,9101133,1 / (1),9.64
+451,Hannah,Kyran,NZL,,,99178,,1 / (1),9.6
+452,Hall,Sebastian,USA,,,97778,,1 / (1),9.56
+453,Jokinen,Elias,FIN,,,95661,,1 / (1),9.55
+454,Toews,Jeremy,CAN,,,99832,,1 / (1),9.55
+455,Ellis,Morgan,USA,,,97752,,1 / (1),9.54
+456,Brown,Noah,USA,,,97880,,1 / (1),9.28
+457,Laboda,Adam,USA,,,98814,,1 / (1),9.22
+458,Small,Jake,USA,,,98957,,1 / (1),9.19
+459,Lohynsky,Jan,CZE,24,1995-02-06 0:00,83578,9150148,1 / (1),9.14
+459,Kawaguchi,Kenji,JPN,,,89563,9300546,1 / (1),9.14
+461,Turpeinen,Tuomas,FIN,,,96431,,2 / (2),9.14
+462,Brunka,Abe,USA,,,98705,,1 / (1),9.12
+463,Frischhut,Paul,AUT,,,95051,,1 / (1),8.93
+464,Sarsland,Logan,USA,,,98815,,1 / (1),8.91
+465,Trask,Sylas,USA,,,98903,,1 / (1),8.91
+466,Ono,Shu,JPN,,,96399,,1 / (1),8.88
+467,Kim,Taewook,KOR,,,99345,,3 / (3),8.77
+468,Hallen,Preston,USA,,,88159,,1 / (1),8.69
+469,Cookshaw,Simon,CAN,,,97948,,2 / (2),8.69
+470,Duty,Braden,USA,,,96969,,1 / (1),8.61
+471,Freitas,Jaden,USA,15,2004-07-20 0:00,98018,,1 / (1),8.55
+472,Hughes,Leeto,NZL,,,99108,,1 / (1),8.48
+473,Munoz,Niko,USA,,,98810,,1 / (1),8.3
+474,Guisolan,Aristide,SUI,,,97621,9510465,1 / (1),8.3
+475,Zines,Maxwell,USA,,,97807,,1 / (1),8.29
+476,Songstad,Gunnar,USA,,,98700,,1 / (1),8.27
+477,Clemans,Jack,USA,,,98904,,1 / (1),8.2
+478,Puenter,Nick,SUI,17,2002-03-01 0:00,93061,9510443,1 / (1),8.19
+479,Schroeder,Dietrich,USA,,,98234,,1 / (1),8
+480,Higuchi,Oto,NZL,,,99161,,1 / (1),7.95
+481,Tyni,Joel,FIN,,,94153,9180165,1 / (1),7.88
+482,Shidler,Kai,USA,,,98905,,1 / (1),7.85
+483,Fujiwara,Syuta,JPN,,,99460,,1 / (1),7.79
+484,Dhawornvej,Caleb,USA,,,96964,,1 / (1),7.71
+485,Christian,Forrest,USA,,,98045,,1 / (1),7.46
+486,Yoshioka,Seiji,JPN,,,97891,,1 / (1),7.45
+486,Teixeira,Joao,BRA,,,96563,,2 / (2),7.45
+488,Trautner,Billy,USA,,,98958,,1 / (1),7.43
+489,Hamel,Mason,USA,,,98811,,1 / (1),7.41
+490,Gardner,Lewis,NZL,,,97599,,1 / (1),7.41
+491,Knöpfel,Matteo,SUI,,,97622,9510458,1 / (1),7.23
+492,Bollock,Ryder,USA,,,98899,,1 / (1),7.16
+493,Knight,Jace,USA,,,98812,,1 / (1),7.12
+494,Stotz,Nick,USA,,,96261,,1 / (1),7.06
+495,Nojiri,Tomoyoshi,JPN,,,95304,,1 / (1),7.02
+496,Brown,Zac,AUS,,,99155,,1 / (1),6.84
+497,Solomon,Will,USA,,,96961,,1 / (1),6.83
+498,Jones,Max,USA,,,98900,,1 / (1),6.82
+499,Ganserer,Jakob,GER,,,98010,,1 / (1),6.68
+500,Rokosh,Max,CAN,,,91990,9101145,1 / (1),6.68
+501,Dotson,Aiden,USA,,,98701,,1 / (1),6.67
+502,Nishizuka,Zensei,JPN,,,99661,,1 / (1),6.61
+503,Kennedy,Brendon,USA,,,98959,,1 / (1),6.61
+504,Rennie,Kai,AUS,13,2006-05-09 0:00,97530,,1 / (1),6.54
+505,Christian,Elias,USA,,,96956,,1 / (1),6.49
+506,Yilmaz,Ekin,CAN,,,99409,,1 / (1),6.45
+507,Munn-Foster,Julian,USA,,,98702,,1 / (1),6.29
+508,Demartino,Anthony,USA,,,98805,,1 / (1),6.25
+509,Adair,Leo,USA,,,98901,,1 / (1),6.16
+510,Hamada,Tamon,JPN,,,99461,,1 / (1),6.11
+511,Repo,Kalle,FIN,,,95032,,1 / (1),5.98
+512,Raimo,Robert,USA,,,98806,,1 / (1),5.96
+513,Tershy,Finn,USA,,,98697,,1 / (1),5.9
+514,Green,Aidan,USA,,,96497,9531355,1 / (1),5.81
+515,Nipper,Samual,NZL,,,99162,,1 / (1),5.77
+516,Schultz,Jayden,USA,,,98807,,1 / (1),5.67
+517,McCall,Timothy,USA,,,98119,,1 / (1),5.52
+518,Lovell,Kyle,USA,,,98056,,1 / (1),5.5
+519,Miyake,Jun,JPN,,,97895,,1 / (1),5.44
+520,Chen,Vinson,AUS,,,92299,9040300,1 / (1),5.39
+521,Brown,Timothy,USA,,,98808,,1 / (1),5.39
+523,Suopanki,Simo,FIN,,,85261,,1 / (1),5.31
+524,Wellard,Trusonn,CAN,,,99410,,1 / (1),5.27
+525,Campbell,Fraser,USA,,,98893,,1 / (1),5.17
+526,Morgan,Carter,USA,,,98698,,1 / (1),5.15
+527,Kampf,Caleb,USA,,,98809,,1 / (1),5.1
+528,Paunonen,Arttu,FIN,,,97146,,1 / (1),5.06
+529,Jesick,Preston,USA,,,98952,,1 / (1),5.03
+530,Langston,Kaedon,CAN,,,99407,,2 / (2),4.97
+531,Sawada,Yo,JPN,,,98143,,1 / (1),4.95
+532,Gupta,Devrett,USA,,,92456,,1 / (1),4.87
+533,Berriman,Zander,USA,,,98894,,1 / (1),4.84
+534,Roth,Hunter,USA,,,98799,,1 / (1),4.82
+535,Goebel,Ethen,USA,,,96977,,1 / (1),4.77
+536,Nipper,Benjamin,NZL,,,99163,,1 / (1),4.74
+537,Levan,Lucas,CAN,,,97921,,1 / (1),4.69
+538,Yang,Joseph,KOR,,,99259,,1 / (1),4.57
+539,Sutton,Angelo,USA,,,98116,,1 / (1),4.53
+540,Mahoney,Mason,USA,,,98895,,1 / (1),4.51
+541,Wang,Xin,CHN,,,96910,,1 / (1),4.51
+542,Karolcik,Boris,SVK,,,83049,9700042,1 / (1),4.48
+543,Frey,Leopold,GER,,,97271,,1 / (1),4.45
+544,Falconer,Rennie,AUS,,,99173,,1 / (1),4.44
+545,Pilon,Adam,USA,,,94016,,1 / (1),4.4
+546,Mochizuki,Shinya,JPN,,,98224,,1 / (1),4.34
+547,Goguen,Joshua,USA,,,98953,,1 / (1),4.27
+548,Mundell,Johnny,USA,,,98800,,1 / (1),4.25
+549,Henschel,Ian,USA,,,98896,,1 / (1),4.19
+550,Inafuku,Zenshin,JPN,,,91519,,1 / (1),4.11
+551,Bonelli,Mathias,SUI,,,99312,,1 / (1),4.06
+552,Coffman,Jameson,USA,,,98699,,1 / (1),4.03
+553,Grace,Brennan,USA,,,98801,,1 / (1),3.96
+554,Matt,Landen,USA,,,98897,,1 / (1),3.87
+555,Macht,Jackson,CAN,,,97920,,1 / (1),3.79
+556,Moore,Matthew,NZL,,,99164,,1 / (1),3.75
+557,Duffy,Charlie,USA,,,98802,,1 / (1),3.68
+558,Daly,Liam,USA,,,98692,,1 / (1),3.66
+559,Gillis,Eric,CAN,,,99830,,1 / (1),3.65
+560,Cattaneo,Gioele,SUI,,,93563,9510444,1 / (1),3.55
+561,Benedict,Ethan,USA,,,98898,,1 / (1),3.54
+562,Forman,Luke,USA,,,98954,,1 / (1),3.53
+563,Feihong,Cai,CHN,,,99181,,1 / (1),3.51
+564,Awachi,Mirai,JPN,,,95809,,1 / (1),3.45
+564,Bai,Pengfei,CHN,,,99723,,2 / (2),3.45
+566,Katko,Baker,USA,,,98803,,1 / (1),3.4
+567,Paunonen,Valtteri,FIN,29,1990-09-12 0:00,70920,9180066,1 / (1),3.3
+568,Connelly,Sean,USA,,,98693,,1 / (1),3.29
+570,Li,Muyang,CHN,,,99722,,1 / (1),3.25
+570,Morikawa,Masami,JPN,,,93132,,1 / (1),3.25
+572,Mitchell,Nate,USA,,,98888,,1 / (1),3.22
+573,Miller,Lars,USA,,,98794,,1 / (1),3.11
+574,Yang,Shunyan,CHN,,,96909,1124973,1 / (1),2.95
+575,Ueda,Manato,JPN,,,99463,,1 / (1),2.95
+576,Gardner,Tate,USA,,,98694,,1 / (1),2.92
+577,Halloran,Ryan,USA,,,97753,,1 / (1),2.9
+578,Lyman,Benjamin,USA,,,98048,,1 / (1),2.83
+579,Jablonki,Seth,USA,,,98118,,1 / (1),2.81
+580,Weikang,Li,CHN,,,99151,,1 / (1),2.78
+581,Binggeli,Nik,SUI,,,99621,,1 / (1),2.65
+582,Abela,Charlie,AUS,,,99174,,1 / (1),2.61
+583,Baumgarten,Joey,USA,,,98889,,1 / (1),2.57
+584,Boyd,Marty,USA,,,96942,,1 / (1),2.55
+585,Underwood,Jason,USA,,,98795,,1 / (1),2.55
+586,Otsubo,Shojiro,JPN,,,99663,,1 / (1),2.47
+587,Stanek,Jarek,FIN,,,97147,,1 / (1),2.45
+588,Lehtinen,Kari,FIN,,,98023,,2 / (2),2.32
+589,Harding,Caden,USA,,,98796,,1 / (1),2.26
+590,Haskell,Mason,USA,,,98890,,1 / (1),2.25
+591,Lyu,Hanzhang,CHN,,,98672,,1 / (1),2.2
+592,Joli,Jordan,USA,,,98695,,1 / (1),2.19
+593,Lambert,Adam,AUS,,,82341,9040188,1 / (1),2.09
+594,Pepper,Porter,USA,,,98797,,1 / (1),1.98
+595,Stahl,Rory,USA,,,98891,,1 / (1),1.93
+596,Uchida,Yusuke,JPN,,,87973,,2 / (2),1.89
+597,Fuller,Casey,USA,,,98696,,1 / (1),1.82
+598,Heninger,Dexter,CAN,,,99406,,1 / (1),1.75
+599,Can,Wu,CHN,,,99182,,1 / (1),1.72
+600,Sakamoto,Rento,JPN,,,95300,,1 / (1),1.71
+601,Donofrio,Griffin,USA,,,98798,,1 / (1),1.7
+602,Take,Seishiro,JPN,,,99660,,1 / (1),1.64
+603,Vaisanen,Emppu,FIN,,,93251,9180183,1 / (1),1.62
+604,Meagher,Nicholas,USA,,,98892,,1 / (1),1.61
+605,Mosher,Alexander,USA,,,98689,,1 / (1),1.46
+605,Guo,Yuheng,CHN,,,98673,,1 / (1),1.46
+607,Campbell,Colby,CAN,,,99831,,1 / (1),1.45
+608,Carre,Stephen,USA,,,98792,,1 / (1),1.41
+609,Langemak,Eddie,USA,,,98950,,1 / (1),1.39
+610,Lochen,Jonathan,USA,,,98885,,1 / (1),1.28
+611,Erland,Samuel,USA,,,97738,,1 / (1),1.13
+612,Frame,Joshua,USA,,,98690,,1 / (1),1.09
+613,Copley,Bayden,USA,,,98886,,1 / (1),0.96
+614,Yonghui,Li,CHN,,,99183,,1 / (1),0.85
+615,Davidson,Zander,USA,,,97834,,1 / (1),0.85
+616,Miller,Nicholas,USA,,,97836,1051577,1 / (1),0.73
+616,Henning,Ryan,CAN,,,97956,,1 / (1),0.73
+618,Brown,Aden,USA,,,98951,,1 / (1),0.69
+619,Murcko,Elias,USA,,,98887,,1 / (1),0.64
+620,Graulich,Bryce,USA,,,97760,,1 / (1),0.57
+621,Engle,Kyle,USA,,,98691,,1 / (1),0.36
+622,Westfall,Jake,USA,,,97751,,1 / (1),0.32
+623,Berghorn,Gavin,USA,,,98793,,1 / (1),0.28
