@@ -1,7 +1,7 @@
 # competitive-ranking-system-in-sports-analytics
 
 ## Data Descriptions
-1. HP comp: contains the origianl Halfpipe competition data from 1990 - 2020.
+1. HP comp: contains the origianl Halfpipe competition data from 1995 - 2020.
 2. ranking list: contains the both original FIS officially published bi-weekly athlete rankings and two organized Excel files for easier data processing and viewing.
 3. chronological: contains the Halfpipe data organized by the year of competition.
 
